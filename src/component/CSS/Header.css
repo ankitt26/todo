@@ -1,0 +1,18 @@
+body {
+  margin: 0 0;
+}
+.header {
+  color: #ffff;
+  text-shadow: 1px 1px white;
+  padding: 5px 0px 0px 30px;
+  text-align: left;
+  font-size: 50px;
+  /* background-color: aquamarine; */
+  background-color: #00e9e9;
+  /* border-bottom: 3px solid rgb(99, 230, 99); */
+
+  font-family: "Shadows Into Light", cursive;
+}
+.love {
+  text-shadow: 2px 2px white;
+}
